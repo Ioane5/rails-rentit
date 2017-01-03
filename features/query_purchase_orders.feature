@@ -7,7 +7,7 @@ Feature: Query for available Equipment
   Background: data in database
 
     Given the following plants exist:
-      | name         | description | cost | id |
+      | name         | description | price| id |
       | Excavator    | Some Descr  | 120  | 1  |
       | Bulldozer    | Some Descr  | 220  | 2  |
       | Roller       | Some Descr  | 180  | 3  |

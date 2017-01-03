@@ -1,5 +1,8 @@
 require 'rails_helper'
 
-RSpec.describe Plant, type: :model do
-  pending "add some examples to (or delete) #{__FILE__}"
+describe 'Plant Validity' do
+
+  it 'should be invalid to create plant with negative cost' do
+    true.should == false
+  end
 end
