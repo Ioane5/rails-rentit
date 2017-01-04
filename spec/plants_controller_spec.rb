@@ -1,6 +1,6 @@
 require 'rails_helper'
 
-describe 'PlantController' do
+describe PlantsController do
 
   it 'should not set to show borrowed plant' do
     pending
