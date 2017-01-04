@@ -1,0 +1,23 @@
+Excavator
+  id: 1
+  name: Excavator
+  description: Some nonusable Description
+  price: 120
+
+Bulldozer
+  id: 2
+  name: Bulldozer
+  description: Some nonusable Description
+  price: 220
+
+Roller
+  id: 3
+  name: Roller
+  description: Some nonusable Description
+  price: 10
+
+Rubber duck
+  id: 4
+  name: Rubber duck
+  description: Some nonusable Description
+  price: 110

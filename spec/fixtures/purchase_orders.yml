@@ -1,0 +1,27 @@
+One
+  id: 1
+  plant_id: 1
+  cost: 10
+  start_date: 2015-05-25
+  end_date: 2016-06-25
+
+Two
+  id: 2
+  plant_id: 2
+  cost: 10
+  start_date: 2014-06-25
+  end_date: 2015-06-25
+
+Three
+  id: 3
+  plant_id: 3
+  cost: 10
+  start_date: 2016-05-25
+  end_date: 2017-06-25
+
+Four
+  id: 4
+  plant_id: 4
+  cost: 10
+  start_date: 2016-12-15
+  end_date: 2016-12-25
