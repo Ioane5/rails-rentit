@@ -54,6 +54,8 @@ group :test do
   gem 'launchy'
 end
 
+gem "rspec-collection_matchers"
+
 gem 'simplecov', :require => false
 
 group :development do

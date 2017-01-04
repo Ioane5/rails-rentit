@@ -2,7 +2,7 @@ require 'rails_helper'
 
 describe 'Plant Validity' do
 
-  it 'should be invalid to create plant with negative cost' do
-    pending
+  it 'should be invalid to create plant with negative price' do
+    expect(FactoryGirl.create(:plant, :price => -1).error_on(:price).size).to eq(1)
   end
 end
